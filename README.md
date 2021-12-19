@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=MuskanValmikee&label=Profile%20views&color=0e75b6&style=flat" alt="SomiSingh" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=SomiSingh&label=Profile%20views&color=0e75b6&style=flat" alt="SomiSingh" /> </p>
 <p align="center">
   <img src="githun.gif" height="200"/>
 </p>
